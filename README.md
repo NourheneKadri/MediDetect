@@ -12,6 +12,13 @@ MediDetect est une application de prédiction des maladies qui vise à évaluer 
 ### Système de Diagnostic
 - **Évaluation du Risque :** Utilisation d'un modèle de machine learning préalablement entraîné sur un dataset de santé pour prédire la probabilité de développer un diabète, en fonction des données saisies par l'utilisateur.
 - **Modèles Prédictifs :** Utilisation de techniques d'apprentissage automatique telles que la régression logistique ou les arbres de décision, entraînés à partir de datasets médicaux publics.
+## Interfaces : 
+![Screenshot 2024-12-01 183158](https://github.com/user-attachments/assets/925717ef-9850-4625-adbc-e99b8917e46f)
+![Screenshot 2024-12-01 183610](https://github.com/user-attachments/assets/58cd7662-d839-4101-8959-5611996998b0)
+![Screenshot 2024-12-01 183705](https://github.com/user-attachments/assets/ab81165d-72ae-4d7a-9d3f-5cbadfff9163)
+
+
+
 
 ## Installation
 1. **Cloner le dépôt :**
