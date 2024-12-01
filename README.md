@@ -16,5 +16,5 @@ MediDetect est une application de prédiction des maladies qui vise à évaluer 
 ## Installation
 1. **Cloner le dépôt :**
    ```bash
-   git clone https://github.com/ton-utilisateur/mediDetect.git
+   git clone https://github.com/ton-utilisateur/mediDetect.git](https://github.com/NourheneKadri/MediDetect.git
    cd mediDetect
